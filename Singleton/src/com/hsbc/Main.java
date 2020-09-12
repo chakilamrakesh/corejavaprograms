@@ -8,7 +8,7 @@ package com.hsbc;
 
 	private Singleton() {
 
-		// s = "Hello I am a string part of Singleton class";
+		// s = "Hello I am a string part of Singleton class Rakesh";
 	}
 
 	public static Singleton getInstance() {
